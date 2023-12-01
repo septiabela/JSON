@@ -1,0 +1,64 @@
+{
+   "mahasiswa" : [ 
+   {
+      "nama": "Anisa Apriliana",
+      "nim": "213110007",
+      "prodi": "RPLA",
+      "semester": "4",  
+      "hasil_studi":  [
+      {
+         "namaMatkul": "Sistem Basis Data",
+         "nilai": "A"
+      },
+      {
+         "namaMatkul": "Pemrograman Web",
+         "nilai": "A"
+      },
+      {
+         "namaMatkul": "Digipreneur",
+         "nilai": "A"
+      }
+      ]
+   },
+   {
+      "nama": "Nabila",
+      "nim": "213300001",
+      "prodi": "TI",
+      "semester": "5",
+      "hasil_studi": [
+         {
+            "namaMatkul": "Sistem Basis Data",
+            "nilai": "B"
+         },
+         {
+            "namaMatkul": "Pemrograman Web",
+            "nilai": "A"
+         },
+         {
+            "namaMatkul": "Jaringan Komputer",
+            "nilai": "C"
+         }
+      ]
+   },
+   {
+      "nama": "Siska",
+      "nim": "213110003",
+      "prodi": "RPLA",
+      "semester": "4",
+      "khs": [
+         {
+            "namaMatkul": "Sistem Basis Data",
+            "nilai": "C"
+         },
+         {
+            "namaMatkul": "Statistika",
+            "nilai": "B"
+         },
+         {
+            "namaMatkul": "Manajemen Basis Data",
+            "nilai": "B"
+         }
+      ]
+   }
+   ]
+}

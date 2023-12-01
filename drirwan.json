@@ -1,0 +1,20 @@
+{
+    "Dokter" : [ 
+    {
+       "nama": "dr. Irwandi, SpA",
+       "spesialis": "Anak",
+       "lokasi": "Sleman",
+       "telepon": "08124567876",  
+       "jadwal":  [
+       {
+          "hari": "senin",
+          "jam": "19.00-21.00"
+       },
+       {
+          "hari": "kamis",
+          "jam": "13.00-16.00"
+       }
+       ]
+    }
+    ]
+}

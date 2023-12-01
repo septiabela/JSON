@@ -1,0 +1,18 @@
+[{  
+    "PizzaName" : "Country Feast",  
+    "Base" : "Cheese burst",  
+    "Toppings" : ["Jalepenos", "Black Olives", "Extra cheese", "Sausages", "Cherry tomatoes"],  
+    "Spicy" : "yes",  
+    "Veg" : "yes",
+    "Price" : "50,000" 
+    },  
+      
+    {  
+    "PizzaName" : "Veggie Paradise",   
+    "Base" : "Thin crust",  
+    "Toppings" : ["Jalepenos", "Black Olives", "Grilled Mushrooms", "Onions", "Cherry tomatoes"],  
+    "Spicy" : "yes",  
+    "Veg" : "yes",
+    "Price" : "55,000" 
+    }  
+    ]

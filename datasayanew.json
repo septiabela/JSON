@@ -1,0 +1,64 @@
+{
+    "mahasiswa" : [ 
+    {
+       "nama": "septia",
+       "nim": "213110018",
+       "prodi": "RPLA",
+       "semester": "4",  
+       "hasil_studi":  [
+       {
+          "namaMatkul": "sbd",
+          "nilai": "A"
+       },
+       {
+          "namaMatkul": "ppwf",
+          "nilai": "A"
+       },
+       {
+          "namaMatkul": "bdnr",
+          "nilai": "A"
+       }
+       ]
+    },
+    {
+       "nama": "Bela",
+       "nim": "213300001",
+       "prodi": "TI",
+       "semester": "5",
+       "hasil_studi":  [
+        {
+           "namaMatkul": "sbd",
+           "nilai": "A"
+        },
+        {
+           "namaMatkul": "ppwf",
+           "nilai": "A"
+        },
+        {
+           "namaMatkul": "bdnr",
+           "nilai": "A"
+        }
+        ]
+     },
+    {
+       "nama": "Pertiwi",
+       "nim": "213110003",
+       "prodi": "RPLA",
+       "semester": "4",
+       "hasil_studi":  [
+        {
+           "namaMatkul": "sbd",
+           "nilai": "A"
+        },
+        {
+           "namaMatkul": "ppwf",
+           "nilai": "A"
+        },
+        {
+           "namaMatkul": "bdnr",
+           "nilai": "A"
+        }
+        ]
+     }
+    ]
+ }
